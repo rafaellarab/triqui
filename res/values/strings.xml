@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triqui</string>
+    <string name="score_label_human">Tu:</string>
+    <string name="score_label_computer">Android:</string>
+    <string name="score_label_tie">Empates:</string>
+   
+    <string name="first_human">Comienza</string>
+    <string name="first_computer">Android comenzará</string>
+    
+    <string name="turn_human">Tu turno</string>
+    <string name="turn_computer">Turno de Android</string>
+    
+    <string name="result_tie">Es un empate</string>
+    <string name="result_human_wins">Ganaste!</string>
+    <string name="result_computer_wins">Android ganó :(</string>
+    <string name="color">000000</string>
+    
+        <string name="difficulty_choose">Escoja la dificultad:</string>
+    <string name="difficulty_easy">Facil</string>
+    <string name="difficulty_harder">Medio</string>
+    <string name="difficulty_expert">Dificil</string>
+    
+    <string name="quit_question">Seguro quiere salir?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+</resources>
